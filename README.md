@@ -1,5 +1,7 @@
 # webkitfxMay2026
 
+**Remote:** https://github.com/SureshMateti-works25/webkitfxMay2026
+
 Specification and technical notes for the **webkitfx** JSON-driven commerce stack and **catalog domain model** (May 2026 baseline).
 
 Implementation code lives in the sibling workspace **`webkitfxv2_May26`** (monorepo: `@webkitfxv2/core-engine`, `@webkitfxv2/react-renderer`, `apps/sarees`, etc.).
